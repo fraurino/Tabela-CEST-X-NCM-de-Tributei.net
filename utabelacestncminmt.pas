@@ -92,7 +92,7 @@ begin
   try
     SaveDialog.Filter     := 'CSV files (*.csv)|*.csv';
     SaveDialog.DefaultExt := 'csv';
-    SaveDialog.FileName   := 'tabela_cestxncm_matogrosso_mt.csv';
+    SaveDialog.FileName   := 'tabela_cestxncm_'+estados.text+'.csv';
     if SaveDialog.Execute then
       ExportarStringGridParaCSV(StringGrid1, SaveDialog.FileName);
   finally
