@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="NCMCESTSegmento.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCESTNCM"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uTabelaCESTNCMinMT"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="227"/>
+        <CursorPos X="72" Y="237"/>
+        <FoldState Value=" T3k90jF"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utributeinet.lfm"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="121" Column="29" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="122" Column="29" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="121" Column="29" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="120" Column="29" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="121" Column="29" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="122" Column="29" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="123" Column="29" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="122" Column="29" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="123" Column="29" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="124" Column="29" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="123" Column="29" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="122" Column="29" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="29" Column="23" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="202" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="55" Column="26" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="46" Column="3" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="156" Column="54" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="114" Column="46" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="130" Column="23" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="131" Column="23" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="132" Column="23" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="44" Column="31" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="146" Column="39" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="133" Column="60" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="84" Column="67" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="82" Column="5" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="8" Column="83" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="17" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="14" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="utabelacestncminmt.pas"/>
+        <Caret Line="84" Column="25" TopLine="78"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
