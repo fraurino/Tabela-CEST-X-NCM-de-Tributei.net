@@ -11,6 +11,10 @@ A aplicação realiza a leitura pública dos dados de NCM x CEST disponibilizado
 - [Tabela NCM x CEST - Paraná (PR)](https://tributei.net/blog/tabela-cest-ncm-de-parana-pr/)
 
 A consulta é feita diretamente por **requisição HTTP**, sem depender de banco de dados local, garantindo sempre a informação atualizada conforme publicada no blog.
+![image](https://github.com/user-attachments/assets/27d818c7-18c3-4847-9186-e2639ab752ff) <p>
+![image](https://github.com/user-attachments/assets/98097f22-1ada-44dc-a607-6a2bb8230354)
+
+
 
 ## ⚠️ Aviso Legal
 
